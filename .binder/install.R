@@ -1,4 +1,3 @@
 install.packages(
-  "renv",
   "shiny"
 )
