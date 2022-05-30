@@ -11,3 +11,5 @@ Notes:
 
 http://mybinder.org/v2/gh/mawds/shiny-binder/HEAD?urlpath=shiny/sample/
 
+(Idea: would `renv::restore()` in `./binder/install.R` work?)
+
